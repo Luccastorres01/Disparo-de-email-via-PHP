@@ -9,7 +9,7 @@
 	<br>
 	<br>
 	<center>
-		<form method="POST" action="alterando_senha.php">
+		<form method="POST" action="disparo_email.php">
 			<label>Qual seu e-mail?</label>
 			<br>
 			<br>

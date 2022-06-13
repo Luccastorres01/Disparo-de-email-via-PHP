@@ -10,8 +10,8 @@
 		$mail->Port = "587";
 		$mail->SMTPSecure = "tls";
 		$mail->SMTPAuth = "true";
-		$mail->Username = 'blackrockprod.media@gmail.com';
-		$mail->Password = 'torontokunta32';
+		$mail->Username = '** EMAIL **';
+		$mail->Password = '** SENHA DO EMAIL **';
 
 		//Enviar e-mail para o cliente
 		//Onde sai o e-mail
